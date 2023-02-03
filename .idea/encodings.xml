@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-content-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-manager-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-page-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gecmall/gecmall-search-ms/src/main/java" charset="UTF-8" />
+  </component>
+</project>

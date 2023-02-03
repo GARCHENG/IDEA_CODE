@@ -1,0 +1,8 @@
+# Project exclude paths
+/gecmall/gecmall-content-ms/target/
+/gecmall/gecmall-eurekaserver/target/
+/gecmall/gecmall-gateway/target/
+/gecmall/gecmall-manager-ms/target/
+/gecmall/gecmall-page-ms/target/
+/gecmall/gecmall-pojo/target/
+/gecmall/gecmall-search-ms/target/

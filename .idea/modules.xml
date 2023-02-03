@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IDEA_CODE.iml" filepath="$PROJECT_DIR$/.idea/IDEA_CODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall.iml" filepath="$PROJECT_DIR$/gecmall/gecmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-content-ms/gecmall-content-ms.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-content-ms/gecmall-content-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-eurekaserver/gecmall-eurekaserver.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-eurekaserver/gecmall-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-gateway/gecmall-gateway.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-gateway/gecmall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-manager-ms/gecmall-manager-ms.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-manager-ms/gecmall-manager-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-page-ms/gecmall-page-ms.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-page-ms/gecmall-page-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-pojo/gecmall-pojo.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-pojo/gecmall-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gecmall/gecmall-search-ms/gecmall-search-ms.iml" filepath="$PROJECT_DIR$/gecmall/gecmall-search-ms/gecmall-search-ms.iml" />
+    </modules>
+  </component>
+</project>
